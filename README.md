@@ -246,4 +246,4 @@ This repository serves as the official landing page for Necesse. The software is
 **Get the most recent version of Necesse today!**
 
 ---
-**Last updated:** 2026-09-12 11:29:13 UTC
+**Last updated:** 2026-09-12 15:04:38 UTC
